@@ -1,4 +1,2 @@
 Esta es la pagina 2
-
 Hola, esta es la linea añadida para el documento 2
-
